@@ -1,3 +1,5 @@
+a simple clone/Fork/archive just in case BlueScream desides to remove his repo again. 
+
 #Themes
 
 All themes go to ``` %appdata%\BetterDiscord\themes\ ```
